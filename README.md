@@ -28,6 +28,8 @@
 - the pcb itself get it from jlcpcb by loading gbr.zip in there the board should be 2-4$ depending on regional pricing
   # total bill
 ### 8.44$ minus shipping and tax
+### you will also need a soldering iron and solder, just don't get burnt!!
+
 ## sidenotes
 i will adding an image of the decorated final version here
  
