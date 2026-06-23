@@ -15,18 +15,19 @@
 ![image (3).png](https://github.com/alsono/lock_index/blob/main/image%20(3).png)
 
 ## components needed to make
-### included in the blinky board kit from stasis 10$
-- 10 leds (literal cents from any hardware store)
-- a 555 timer used for blinking the leds themselves
-- a cd4017be same used in this link (used for wiring a lot of leds in this case all 10)[https://app.ultralibrarian.com/details/15b11d40-103f-11e9-ab3a-0a3560a4cccc/Texas-Instruments/CD4017BE?open=exports]
- (this might be harder to find but it should be pretty common in specialized electrical engineering stores)
-- a 50k ohm potentiometer
-- a 470 ohm resistor
-- a 1k resistor
-- a 0.01 uF capacitor
-- a 1 uF polarized capacitor
+### included in the blinky board kit from stasis which is technically 10$
+- 10 leds (literal cents from any hardware store) 1$
+- a 555 timer used for blinking the leds themselves 0.70$
+- a cd4017be same used in this link https://www.digikey.com/en/products/detail/texas-instruments/CD4017BE/67253?msockid=1e2431194f71648f270924934eac65ac (used for wiring a lot of leds in this case all 10) costs $1.39 (this might be harder to find but it should be pretty common in specialized electrical engineering stores)
+- a 50k ohm potentiometer 0.35$
+- a 470 ohm resistor 0.03$
+- a 1k resistor 0.02$
+- a 0.01 uF capacitor 0.45$
+- a 1 uF polarized capacitor 0.20$
 ### NOT included in said kit
 - the pcb itself get it from jlcpcb by loading gbr.zip in there the board should be 2-4$ depending on regional pricing
-# sidenotes
+  # total bill
+### 8.44$ minus shipping and tax
+## sidenotes
 i will adding an image of the decorated final version here
  
